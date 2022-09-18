@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="111.712" height="100.669" viewBox="0 0 111.712 100.669">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1.002" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#97befc"/>
+      <stop offset="1" stop-color="#abcaff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="0.498" x2="1.001" y2="0.498" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.001" y1="0.498" x2="1.006" y2="0.498" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" y1="0.5" x2="1.002" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#afcdfd"/>
+      <stop offset="1" stop-color="#d7e6fe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="-0.002" y1="0.501" x2="0.998" y2="0.501" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-7" x1="0.001" y1="0.501" x2="1" y2="0.501" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="inifinite" transform="translate(0.025 -7.525)">
+    <g id="button" transform="translate(44.921 74.42)">
+      <path id="Kształt_1554" d="M127.177,117.618s3.162-1.985,4.412-2.941,1.765-3.456-2.206-5.882C126.147,106.809,111,98.5,111,98.5" transform="translate(-74.308 -98.5)" fill="none" stroke="#06f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Kształt_1473" d="M102.424,132.285a89.033,89.033,0,0,1-7.794,4.853c-4.706,2.794-8.015,2.059-11.471.221C69.188,129.859,61.1,125.3,61.1,125.3" transform="translate(-61.1 -105.594)" fill="none" stroke="#06f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Elipsa_1386" d="M116.067,122.785a12.28,12.28,0,0,1,12.5,0c3.456,2.279,3.456,6.03,0,8.309a12.28,12.28,0,0,1-12.5,0c-3.456-2.279-3.456-6.03,0-8.309Z" transform="translate(-74.963 -104.475)" fill="none" stroke="#333c5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Prostokąt_1389" d="M127.912,130a10.2,10.2,0,0,1-9.853,0A3.869,3.869,0,0,1,116,126.912V122.5h13.971v4.338A3.875,3.875,0,0,1,127.912,130Z" transform="translate(-75.631 -104.853)" fill="#06f" fill-rule="evenodd"/>
+      <path id="Elipsa_1386_kopia_2" d="M118.065,117.743a10.2,10.2,0,0,1,9.853,0c2.721,1.691,2.721,4.485,0,6.25a10.2,10.2,0,0,1-9.853,0C115.345,122.3,115.345,119.508,118.065,117.743Z" transform="translate(-75.638 -103.258)" fill="#007bfc" fill-rule="evenodd"/>
+    </g>
+    <path id="Prostokąt_zaokrąglony_1356_kopia_10" d="M44,43.784v-8.9a3.7,3.7,0,0,1,1.765-2.721L73.045,16.8c.956-.588,1.765-.221,1.765.735v8.6Z" transform="translate(-11.653 -2.379)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Prostokąt_zaokrąglony_1356_kopia_13" d="M91,21.7V11.183s1.324-.809,3.088-1.838c4.191-2.427,10.956-2.427,15.074,0a6.992,6.992,0,0,1,1.471,1.1Z" transform="translate(-24.093)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+    <path id="Prostokąt_zaokrąglony_1356_kopia_16" d="M35.353,61.094V87.418L29.765,90.58c-.956.588-1.765.221-1.765-.735V64.33a3.7,3.7,0,0,1,1.765-2.721L35.647,58.3A8.82,8.82,0,0,0,35.353,61.094Z" transform="translate(-7.418 -13.44)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+    <g id="browser" transform="translate(27.568 9.426)">
+      <path id="Prostokąt_zaokrąglony_1356" d="M39.632,43.412,96.4,10.912c1.985-1.176,3.6-1.176,3.6.809V65.839c0,1.985-1.618,3.75-3.6,4.927l-56.766,32.5c-1.985,1.176-2.132-.294-2.132-2.279V48.339c0-1.985.147-3.75,2.132-4.927Z" transform="translate(-37.5 -10.111)" fill="none" stroke="#333c5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Elipsa_1360" d="M44.382,60.952c.515-.294.956-.074.956.368a1.658,1.658,0,0,1-.956,1.324c-.515.294-.882.074-.882-.368A1.747,1.747,0,0,1,44.382,60.952Z" transform="translate(-39.088 -23.532)" fill="#007bfc" stroke="#007bfc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Elipsa_1360_kopia" d="M51.682,56.852c.515-.294.882-.074.882.368a1.747,1.747,0,0,1-.882,1.324c-.515.294-.882.074-.882-.368A1.632,1.632,0,0,1,51.682,56.852Z" transform="translate(-41.02 -22.447)" fill="#007bfc" stroke="#007bfc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Elipsa_1360_kopia_2" d="M58.882,52.852c.515-.294.882-.074.882.368a1.747,1.747,0,0,1-.882,1.324c-.515.294-.882.074-.882-.368A1.537,1.537,0,0,1,58.882,52.852Z" transform="translate(-42.926 -21.388)" fill="#007bfc" stroke="#007bfc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+    </g>
+    <path id="Prostokąt_zaokrąglony_1356_kopia_8" d="M111.765,34.166,139.045,18.8c.956-.588,1.765-.221,1.765.735V44.975a3.7,3.7,0,0,1-1.765,2.721l-27.28,15.368c-.956.588-1.765.221-1.765-.735V36.887A3.567,3.567,0,0,1,111.765,34.166Z" transform="translate(-29.122 -2.909)" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+    <path id="Prostokąt_zaokrąglony_1356_kopia_9" d="M59.765,63.166,87.045,47.8c.956-.588,1.765-.221,1.765.735V73.975A3.7,3.7,0,0,1,87.045,76.7L59.765,92.064c-.956.588-1.765.221-1.765-.735V65.887A3.567,3.567,0,0,1,59.765,63.166Z" transform="translate(-15.359 -10.585)" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+    <g id="Grupa_62" transform="translate(-0.025 51.636)">
+      <path id="Prostokąt_zaokrąglony_1356_kopia_12" d="M34.292,104.049s-7.206,3.824-14.339,7.794a8.923,8.923,0,0,1-1.029.735c-4.338,2.574-11.324,2.574-15.589,0a6.192,6.192,0,0,1-3.162-3.971H.1V78.828a5.464,5.464,0,0,1,2.941-4.706C11.056,69.636,13.7,67.8,13.7,67.8c1.029-.588,1.838-.221,1.838.735l-1.471,16.03a12.686,12.686,0,0,0,4.412-.809c7.574-4.265,15.883-8.53,15.883-8.53.956-.588,1.765-.221,1.765.735V101.4a3.65,3.65,0,0,1-1.838,2.647Z" transform="translate(-0.008 -67.515)" fill-rule="evenodd" fill="url(#linear-gradient-6)"/>
+      <path id="Prostokąt_zaokrąglony_1356_kopia_15" d="M15.435,84.666c-4.044,1.029-8.9.588-12.206-1.4C-1.11,80.7-1.11,76.5,3.229,73.93c2.206-1.324,7.427-4.485,10.221-5.809,1.765-.809,1.985.809,1.985,1.838Z" transform="translate(0.025 -67.617)" fill-rule="evenodd" fill="url(#linear-gradient-7)"/>
+    </g>
+    <g id="wp" transform="translate(60.289 47.151)">
+      <path id="Prostokąt_zaokrąglony_1356_kopia_6" d="M83.765,77.066,111.045,61.7c.956-.588,1.765-.221,1.765.735V87.875a3.7,3.7,0,0,1-1.765,2.721l-27.28,15.368c-.956.515-1.765.221-1.765-.735V79.86A3.834,3.834,0,0,1,83.765,77.066Z" transform="translate(-82 -61.415)" fill="#007bfc" fill-rule="evenodd"/>
+      <path id="Kształt_1370" d="M101.985,97.919C98.162,100.2,95,98.36,95,93.8a15.919,15.919,0,0,1,6.985-12.353c3.824-2.279,6.985-.441,6.985,4.118A15.919,15.919,0,0,1,101.985,97.919Zm0-1.1a9.569,9.569,0,0,0,1.691-1.324l-1.691-5.147-1.691,7.133a4.778,4.778,0,0,0,1.691-.662Zm-3.088.809-2.427-7.574a11.836,11.836,0,0,0-.515,3.162c-.074,2.647,1.176,4.265,2.941,4.412Zm3.088-15.074a13.456,13.456,0,0,0-5.074,6.177l1.4-.809a.224.224,0,0,1,.294,0c.074.074.074.074.074.147a.619.619,0,0,1-.294.515l-.441.294,2.132,6.324,1.471-6.25-.588-1.765V87.11l-.441.294a.224.224,0,0,1-.294,0c-.074-.074-.074-.074-.074-.147a.619.619,0,0,1,.294-.515l2.427-1.4a.224.224,0,0,1,.294,0c.074.074.074.074.074.147a.619.619,0,0,1-.294.515l-.441.221,2.059,6.324,1.176-5.074c.294-1.4.074-1.765-.221-2.132a1.757,1.757,0,0,1-.368-1.029,2.475,2.475,0,0,1,.956-1.985.228.228,0,0,1,.147-.074C105.221,81.448,103.677,81.521,101.985,82.551ZM107.5,83.58,105,94.1a13.773,13.773,0,0,0,3.015-7.941A5.061,5.061,0,0,0,107.5,83.58Z" transform="translate(-85.441 -66.458)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="watch" transform="translate(2.199 13.463)">
+      <g id="Grupa_58">
+        <path id="Elipsa_1378" d="M20.647,23.824c0,5.662-3.971,12.5-8.824,15.294S3,39.633,3,33.971s3.971-12.5,8.824-15.294A8.1,8.1,0,0,1,15.206,17.5" transform="translate(-3 -16.103)" fill="none" stroke="#06f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Kształt_1385" d="M18.9,16.924,15.3,15.6" transform="translate(-6.256 -15.6)" fill="#fff" stroke="#06f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+        <path id="Kształt_1386" d="M19.253,17.6,16.9,20.615" transform="translate(-6.679 -16.129)" fill="none" stroke="#06f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <path id="Path_338" data-name="Path 338" d="M13.6,34.538c0,.735.368.956.809.662A2.1,2.1,0,0,0,15,34.171l.147-1.471-1.1.441A2.263,2.263,0,0,0,13.6,34.538Z" transform="translate(-5.806 -20.126)" fill="#007bfc" stroke="#007bfc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_339" data-name="Path 339" d="M14.2,30.506a1.6,1.6,0,0,1,.294-.368c.441-.368.809-.074.809.662a2.643,2.643,0,0,1-.147.809L19.127,23.3Z" transform="translate(-5.965 -17.638)" fill="#007bfc" stroke="#007bfc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

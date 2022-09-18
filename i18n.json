@@ -1,0 +1,23 @@
+{
+    "locales": ["en", "fr", "de", "it","sv","es","fi", "nl"],
+    "defaultLocale": "en",
+    "pages": {
+        "*": ["common"],
+        "/": ["home", "example"],
+        "/about-us": ["about"],
+        "/account": ["account"],
+        "/account/billing": ["/account/billing"],
+        "/account/invoices": ["/account/invoices"],
+        "/account/general": ["/account/general"],
+        "/cart": ["/cart"],
+        "/account/login-connections": ["/account/login-connections"],
+        "/checkout": ["/checkout"],
+        "/contact": ["/contact"],
+        "/choose-server": ["/choose-server"],
+        "/faq": ["/faq"],
+        "/referral-program": ["/referral-program"],
+        "/search": ["/search"],
+        "/support": ["/support"]
+        
+      }
+}
